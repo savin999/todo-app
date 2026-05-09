@@ -39,3 +39,4 @@ npm run build
 - single user app
 - Data is not persisted locally; it all comes from the backend API
 - Designed for modern browsers (Chrome, Firefox, Safari, Edge)
+
